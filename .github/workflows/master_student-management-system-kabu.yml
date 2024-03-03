@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'student-management-system-kabu'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_681E8D628A764029A8755448D4C946A4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E484AB9C9F345F2B6D560FD0677B96C }}
           package: .
